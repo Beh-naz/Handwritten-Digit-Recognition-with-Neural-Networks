@@ -1,5 +1,5 @@
 # Handwritten-Digit-Recognition-with-Neural-Networks
-
+This project was done in collaboration with Bing Wang, Camille Mirmiran, and Masoomeh Akbari.
 ### Project Overview
 This project aims to build and train two systems for digit classification using neural networks and linear classifiers. These systems take an image as input and return the correct numeric digit.
 ### Input Data
