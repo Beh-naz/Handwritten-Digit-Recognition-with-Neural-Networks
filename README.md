@@ -13,3 +13,6 @@ The program produces the following heatmap for one of the digit photos:
 
 ### Observation
 In this particular case, the heatmap suggests a mix of digit 2 and digit 9. 
+
+### Report
+Please find a complete and detailed report of this project in the file "Report".
