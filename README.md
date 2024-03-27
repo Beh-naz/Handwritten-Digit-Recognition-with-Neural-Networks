@@ -18,4 +18,4 @@ In this particular case, the heatmap suggests a mix of digit 2 and digit 9.
 We obtained test classification performance of over 95% correct classifications.
 
 ### Report
-Please find a complete and detailed report of this project in the file "Report".
+Please find a complete and detailed report of this project in the [Report](https://github.com/Beh-naz/Handwritten-Digit-Recognition-with-Neural-Networks/blob/main/Report.pdf) file.
