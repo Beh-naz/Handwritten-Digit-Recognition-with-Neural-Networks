@@ -3,7 +3,7 @@ This project was done in collaboration with Bing Wang, Camille Mirmiran, and Mas
 ### Project Overview
 This project aims to build and train two systems for digit classification using neural networks and linear classifiers. These systems take an image as input and return the correct numeric digit.
 ### Input Data
-We use the MNIST dataset, which is a well-known dataset for handwritten digit recognition. It is uploaded as [dataset.mat]() in this repository.
+We use the MNIST dataset, which is a well-known dataset for handwritten digit recognition. It is uploaded as [dataset.mat](https://github.com/Beh-naz/Handwritten-Digit-Recognition-with-Neural-Networks/blob/main/dataset.mat) in this repository.
 
 ### Sample output
 
